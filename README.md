@@ -1,3 +1,3 @@
 # pythonBiginnerProjets
 
-[a relative link](madlibs)
+[MADLIBS](madlibs)
