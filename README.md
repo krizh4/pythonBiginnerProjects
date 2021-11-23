@@ -1,4 +1,4 @@
 # pythonBiginnerProjets
 
-[MADLIBS](madlibs)
-[GUESS THE NUMBER](guessTheNumber)
+[MADLIBS](madlibs)  
+[GUESS THE NUMBER](guessTheNumber)  
