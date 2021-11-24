@@ -1,4 +1,4 @@
-# pythonBiginnerProjets
+# pythonBiginnerProjects
 
 [MADLIBS](madlibs)  
 [GUESS THE NUMBER](guessTheNumber)  
