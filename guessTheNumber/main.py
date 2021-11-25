@@ -1,4 +1,5 @@
 import random as rand
+import os
 
 def guess(number):
     a = 1
@@ -65,5 +66,7 @@ elif level == 1:
     run(10)
 elif level > 3 or level < 1:
     print('Enter valid level.')
+
+os.system('pause')
 
 #devil-prog
