@@ -1,3 +1,5 @@
+import os
+
 adj0 = input('Adjective 0: ')
 adj1 = input('Adjective 1: ')
 bird = input('Type of bird: ')
@@ -22,3 +24,5 @@ full of {liqd} into the {vrb2} room. When I got there, I couldn't believe my {pr
 There were {nun1} {vrb3} on the {nun2}")
 
 print('\n __________________________________________ \n')
+
+os.system('pause')
